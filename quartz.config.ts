@@ -16,7 +16,8 @@ const config: QuartzConfig = {
       provider: "plausible",
     },
     locale: "zh-CN",
-    baseUrl: "Feng-YiJing-Dao.github.io/quartz",
+    // baseUrl: "Feng-YiJing-Dao.github.io/quartz",
+    baseUrl: "garden.aifeng.space",
     ignorePatterns: ["private", "templates", ".obsidian"],
     defaultDateType: "modified",
     theme: {
